@@ -1,0 +1,508 @@
+body {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-image: url(../img/group-17.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  object-fit: contain;
+  overflow: hidden;
+}
+
+.header {
+  padding: 40px 100px 10px 100px;
+  text-decoration: none;
+}
+.header .header-right {
+  text-align: right;
+  justify-content: right;
+}
+.header .header-right .dropdown {
+  display: inline-block;
+  position: relative;
+  padding: 2px 10px;
+}
+.header .header-right .dropdown:hover .drop-content {
+  visibility: visible;
+  top: 200%;
+}
+.header .header-right .dropdown .dropbtn {
+  position: relative;
+}
+.header .header-right .dropdown .dropbtn .AZ {
+  width: 23px;
+  height: 18px;
+  margin: 0 9px 0 0;
+  font-family: Gotham;
+  margin-right: 2px;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.05px;
+  color: rgba(255, 255, 255, 0.75);
+}
+.header .header-right .dropdown .dropbtn .asagi {
+  font-size: 10px;
+  margin-bottom: 5px;
+  color: white !important;
+}
+.header .header-right .dropdown .dropbtn .Combined-Shape {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+  background-color: var(--black);
+}
+.header .header-right .dropdown .dropbtn .telephone {
+  margin-left: -20px;
+  margin-right: 35px;
+  font-family: Gotham;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: 0.06px;
+  color: rgba(255, 255, 255, 0.75);
+}
+.header .header-right .dropdown .dropbtn .Rectangle {
+  color: white !important;
+  padding: 8px 42px;
+  text-decoration: none;
+  border-radius: 38px;
+  border: solid 1px var(--white);
+}
+.header .header-right .dropdown .dropbtn .Rectangle .xsi-kabinet {
+  width: 100px;
+  height: 20px;
+  font-family: MarkPro;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  text-decoration: none;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.28px;
+  color: var(--white) !important;
+}
+.header .header-right .dropdown .dropbtn .Group-4 {
+  width: 43px;
+  height: 25px;
+  padding: 0;
+  object-fit: contain;
+}
+
+.line {
+  padding: 0px 110px 0px 100px;
+}
+.line .Path-45-Copy-3 {
+  border: solid 1px var(--white);
+}
+
+.middle {
+  overflow: hidden;
+  position: relative;
+}
+.middle .middle-left {
+  padding: 0px 0px 0px 110px;
+}
+.middle .middle-left .online {
+  margin-top: 70px;
+}
+.middle .middle-left .online .xdmt .Onlayn-xidmtlr {
+  -webkit-filter: blur(0.5px);
+  filter: blur(0.5px);
+  font-family: MarkPro;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.92;
+  letter-spacing: -0.74px;
+  color: var(--white);
+}
+.middle .middle-left .online .kredit {
+  position: relative;
+  margin-bottom: 30px;
+}
+.middle .middle-left .online .kredit .kredit-icon .Combined-Shape {
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+  opacity: 0.68;
+  background-color: var(--black);
+}
+.middle .middle-left .online .kredit .kredit-text {
+  position: absolute;
+  right: 120px;
+  padding-right: 30px;
+  top: 10px;
+}
+.middle .middle-left .online .kredit .kredit-text .sag {
+  position: absolute;
+  margin-top: 25px;
+  left: 15px;
+  color: white;
+  width: 15px;
+}
+.middle .middle-left .online .kredit .kredit-text .Kredit-n-onlayn-m-Copy {
+  font-family: MarkPro;
+  font-size: 12px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0px;
+  color: var(--white);
+}
+.middle .middle-left .connection {
+  margin-top: 250px;
+}
+.middle .middle-left .connection .Group-2 {
+  width: 187px;
+  height: 18px;
+  margin: 10px 202px 119px 7.4px;
+  object-fit: contain;
+}
+.middle .middle-left .connection .Ba-ofis {
+  font-family: MarkPro;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.62;
+  letter-spacing: -0.19px;
+  color: var(--white);
+}
+.middle .middle-left .connection .General-Akim-Abbasov {
+  font-family: MarkPro;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: -0.17px;
+  color: var(--white);
+}
+.middle .middle-left .connection .laq-nmrlrimiz {
+  font-family: MarkPro;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.62;
+  letter-spacing: -0.19px;
+  color: var(--white);
+}
+.middle .middle-left .connection hr {
+  background-color: white;
+  width: 100%;
+}
+.middle .middle-left .connection .tel {
+  width: 259px;
+  height: 22px;
+  font-family: MarkPro;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.83;
+  letter-spacing: -0.11px;
+  color: var(--white);
+}
+.middle .middle-right .text .-baslayan-faizl {
+  width: 286px;
+  height: 50px;
+  -webkit-filter: blur(0.5px);
+  margin-left: 250px;
+  filter: blur(0.5px);
+  font-family: MarkPro;
+  font-size: 26px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.92;
+  letter-spacing: -0.74px;
+  color: var(--white);
+}
+.middle .middle-right .text .Hr-ks-n-istehla {
+  font-family: MarkPro;
+  margin-left: 250px;
+  font-size: 75px;
+  margin-bottom: 25px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.89;
+  letter-spacing: -2.56px;
+  color: #0091c6;
+}
+.middle .middle-right .text .Rectangle {
+  width: 187px;
+  text-decoration: none;
+  height: 41px;
+  margin-left: 250px;
+  padding: 10.4px 55px 11.6px;
+  border-radius: 20.5px;
+  background-color: #0091c6;
+}
+.middle .middle-right .text .Rectangle .Mracit-et {
+  text-decoration: none;
+  width: 77px;
+  height: 19px;
+  font-family: MarkPro;
+  font-size: 15px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.64px;
+  color: var(--white);
+}
+.middle .bfilter {
+  position: absolute;
+  width: 950px;
+  right: 200px;
+  top: 401px;
+}
+.middle .bfilter .Fill-36 {
+  border-top-left-radius: 25px;
+  position: relative;
+  width: 1020px;
+  height: 300px;
+  margin: 33.5px 0 0 129.4px;
+  padding: 11px 99px 44.1px 73.6px;
+  -webkit-backdrop-filter: blur(22px);
+  backdrop-filter: blur(22px);
+  background-color: rgba(255, 255, 255, 0.19);
+  position: relative;
+}
+.middle .bfilter .Fill-36 .bfilter-text {
+  position: absolute;
+  right: 110px;
+  padding: 1px 41px 5px 40px;
+  border-radius: 38px;
+  border: solid 1px var(--white);
+  color: white;
+  text-decoration: none;
+}
+.middle .bfilter .Fill-36 .text2 {
+  padding: 1px 50px 5px 50px !important;
+  margin-top: 10px !important;
+}
+.middle .bfilter .Fill-36 .Oval1 {
+  font-size: 6px;
+  border-radius: 50%;
+  left: 22px;
+  top: 25px;
+  position: absolute;
+  opacity: 0.61;
+  background-color: rgba(0, 0, 0, 0.42);
+}
+.middle .bfilter .Fill-36 .Kampaniyalar {
+  width: 191px;
+  left: 15px;
+  position: absolute;
+  margin: 0 0 0 27px;
+  object-fit: contain;
+  font-family: MarkPro;
+  font-size: 28px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.12px;
+  color: rgba(255, 255, 255, 0.33);
+}
+.middle .bfilter .Fill-36 .Mhsullar {
+  left: 70px;
+  position: absolute;
+  margin: 0 0 0 21px;
+  object-fit: contain;
+  font-family: MarkPro;
+  font-size: 43px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.19px;
+  color: var(--white);
+}
+.middle .bfilter .second {
+  position: absolute;
+  width: 1070px;
+  height: 300px;
+  top: 50px;
+  left: -50px;
+}
+.middle .bfilter .second .Oval2 {
+  font-size: 10px;
+  border-radius: 50%;
+  left: 70px;
+  top: 30px;
+  position: absolute;
+  opacity: 0.61;
+  background-color: rgba(0, 0, 0, 0.42);
+}
+.middle .bfilter .second .element {
+  justify-content: space-between;
+  margin-top: 55px;
+}
+.middle .bfilter .second .element .right-copy-5 {
+  margin-top: 10px;
+}
+.middle .bfilter .second .element .percent {
+  position: absolute;
+  width: 70px;
+  display: flex;
+  height: 70px;
+  top: 0px;
+  right: 60px;
+}
+.middle .bfilter .second .element .percent .faiz img {
+  width: 41px;
+  height: 70px;
+  margin-top: 45px;
+  margin-right: -15px;
+  object-fit: contain;
+  font-family: MarkPro;
+  font-size: 50px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -4.89px;
+  color: rgba(0, 145, 198, 0.08);
+}
+.middle .bfilter .second .element .percent .eded img {
+  width: 90px;
+  height: 100px;
+  margin-top: 10px;
+  object-fit: contain;
+  font-family: MarkPro;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -4.89px;
+  color: rgba(0, 145, 198, 0.08);
+}
+.middle .bfilter .second .element .Mhsullar2 {
+  font-family: MarkPro;
+  font-size: 17px;
+  margin-bottom: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  color: #9d9d9d;
+}
+.middle .bfilter .second .element .stehlak-kreditlri {
+  font-family: MarkPro;
+  font-size: 25px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -0.13px;
+  color: #000000;
+}
+.middle .bfilter .second .element .Lombard-kreditlri {
+  font-family: MarkPro;
+  font-size: 25px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -0.13px;
+  color: #000000;
+}
+.middle .bfilter .second .element .Kart-mhsullar {
+  margin: 9px 6px 23px 0;
+  font-family: MarkPro;
+  font-size: 25px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -0.13px;
+  color: #000000;
+}
+.middle .bfilter .second .element .-dn-balayan-kre {
+  width: 319px;
+  margin-top: 15px;
+  height: 32px;
+  font-family: MarkPro;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.23px;
+  color: #4c4c4c;
+}
+.middle .bfilter .second .element .element1 {
+  background-image: url(../img/rectangle.png);
+  background-position: center;
+  width: 275px;
+  padding: 15px;
+  height: 200px;
+  margin-right: 32px;
+  object-fit: contain;
+  border-radius: 10px;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  position: relative;
+}
+.middle .bfilter .second .element .element2 {
+  background-image: url(../img/rectangle-copy-5.png);
+  width: 275px;
+  margin-right: 32px;
+  padding: 15px;
+  height: 200px;
+  background-position: center;
+  object-fit: contain;
+  border-radius: 10px;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}
+.middle .bfilter .second .element .element3 {
+  background-image: url(../img/rectangle-copy-6.png);
+  padding: 15px;
+  width: 275px;
+  height: 200px;
+  background-position: center;
+  object-fit: contain;
+  border-radius: 10px;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}
+
+div#demo1:before {
+  content: "";
+  position: absolute;
+  background-color: transparent;
+  top: -56px;
+  right: 0;
+  height: 57px;
+  width: 38px;
+  border-bottom-right-radius: 54px;
+  box-shadow: 0 31px 0 0 #737270;
+}
+
+#demo:before {
+  content: "";
+  position: absolute;
+  background-color: transparent;
+  top: -56px;
+  right: 0;
+  height: 57px;
+  width: 38px;
+  border-bottom-right-radius: 54px;
+  box-shadow: 0 31px 0 0 #4c4c49;
+}
+
+/*# sourceMappingURL=style.css.map */
